@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(156, 245, 245);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    float: left;
+
+}
+#img1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding-top: 50px;
+
+}
+.p1{
+    padding-left: 110px;
+    color: blue;
+    /* padding-bottom: 100px; */
+    /* padding-bottom: 500px; */
+}
+#p1{
+    padding-left: 110px;
+    /* padding-left: 110px; */
+    padding-top: 50px;
+    color: red;
+    /* padding-bottom: 500px; */
+}
+.submit{
+    background-color: green;
+    font-size: 20px;
+    cursor: pointer;
+}
+.cancle{
+    background-color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+label{
+    padding-top:5px;
+    padding-bottom: 5px;
+}
