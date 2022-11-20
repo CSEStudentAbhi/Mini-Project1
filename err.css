@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(rgb(252, 152, 152),rgb(248, 248, 132));
+}
+h1{
+    font-size: 120px;
+    padding-top: 5%;
+    padding-left: 8%;
+    background: -webkit-linear-gradient(rgb(0, 0, 0), red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+span{
+    padding-left: 42%;
+}
